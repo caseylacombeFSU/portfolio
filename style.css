@@ -9,12 +9,12 @@ html {
 #projects li {
   float: left;
   list-style: none;
-  border-right: 50px;
+  padding-right: 50px;
   list-style-type: none;
 }
 
 #menu li {
   float: right;
-  border-right: 50px;
+  padding-right: 50px;
   list-style: none;
 }
