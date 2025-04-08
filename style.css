@@ -1,4 +1,13 @@
-html 
-{
+html {
   color: black;
+}
+
+#projects li {
+  float: left;
+  list-style: none;
+  border-right: 50px;
+}
+
+#menu li {
+  float: right;
 }
